@@ -19,8 +19,8 @@ skills who consistently delivers high-quality work in professional.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.datascienceportfol.io/arfbudiman)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arfbudiman/)
+[![portfolio](https://img.shields.io/badge/My_Portfolio-000?style=flat&logo=ko-fi&logoColor=white)](https://www.datascienceportfol.io/arfbudiman)
+[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arfbudiman/)
 
 
 
